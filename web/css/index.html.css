@@ -1,0 +1,15 @@
+#masthead {
+
+    padding-bottom: 2em;
+    padding-top: 2em;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: .07em;
+}
+
+.navItem {
+    border-right-style: solid;
+    border-right-width: .1em;
+    border-right-color: black;
+    text-align: center;
+}
